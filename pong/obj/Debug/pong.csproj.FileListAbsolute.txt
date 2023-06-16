@@ -1,0 +1,11 @@
+C:\Users\justi\OneDrive\Desktop\CS3642\pong\bin\Debug\pong.exe.config
+C:\Users\justi\OneDrive\Desktop\CS3642\pong\bin\Debug\pong.exe
+C:\Users\justi\OneDrive\Desktop\CS3642\pong\bin\Debug\pong.pdb
+C:\Users\justi\OneDrive\Desktop\CS3642\pong\obj\Debug\pong.csprojAssemblyReference.cache
+C:\Users\justi\OneDrive\Desktop\CS3642\pong\obj\Debug\pong.settings.resources
+C:\Users\justi\OneDrive\Desktop\CS3642\pong\obj\Debug\pong.Pong.resources
+C:\Users\justi\OneDrive\Desktop\CS3642\pong\obj\Debug\pong.Properties.Resources.resources
+C:\Users\justi\OneDrive\Desktop\CS3642\pong\obj\Debug\pong.csproj.GenerateResource.cache
+C:\Users\justi\OneDrive\Desktop\CS3642\pong\obj\Debug\pong.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Desktop\CS3642\pong\obj\Debug\pong.exe
+C:\Users\justi\OneDrive\Desktop\CS3642\pong\obj\Debug\pong.pdb
